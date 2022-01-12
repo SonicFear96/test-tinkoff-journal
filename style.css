@@ -1,0 +1,13 @@
+th {
+  text-align: left;
+}
+
+td:first-child {
+  width: 20%;
+}
+td:nth-child(2) {
+  width: 30%;
+}
+td:nth-child(3) {
+  width: 50%;
+}
